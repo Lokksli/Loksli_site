@@ -1,0 +1,131 @@
+html {
+    font-family: 'Montserrat',sans-serif;
+    font-size: 14px;
+    background-color: rgb(239, 247, 255);
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: 0 0;
+}
+
+#leg {
+    max-width: 100%;
+    margin-top: -25px;
+    text-align: left;
+    width: 1920px;
+    height: 267px;
+    background-image: url("img/Back.jpg");
+    background-repeat: no-repeat;
+}
+
+
+.head {
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: none;
+    background-image: url("img/BlackHole.png");
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: 0 0;
+}
+
+.head h1 {
+    color: rgb(223, 252, 255);
+    margin-left: 20px;
+    margin-top: 110px;
+    font-size: 48px;
+}
+
+.headline {
+    background-color: transparent;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+.Info {
+    max-width: 800px;
+    font: inherit;
+    font-size: 16px;
+    display: block;
+}
+
+.conteiner {
+    max-width: 70%;
+}
+
+.Info p {
+    color: #6a7987;
+    margin-left: 20px;
+}
+
+.img-body {
+    margin-top: 20px
+}
+
+.photo {
+    align-items: center;
+    display: flex;
+    margin-top: 30px;
+    background-color: rgb(221, 237, 240);
+    display: block;
+}
+
+.im {
+    align-items: center;
+}
+
+.im img {
+    margin-top: 40px;
+}
+
+.discription {
+    text-align: center;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    font-style: italic;
+}
+
+.for-photo {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.foot-zone {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.left {
+    display: flex;
+    justify-content: center;
+}
+
+.right {
+    display: flex;
+    justify-content: center;
+}
+
+.left {
+    color: #6a7987;
+}
